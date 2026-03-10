@@ -1,4 +1,4 @@
-In order to guarantee global food security and economic stability, agriculture isessential. 
+In order to guarantee global food security and economic stability, agriculture is essential. 
 Crop diseases, however, pose a serious danger to crop productivity andquality and are just one of the many difficulties the agricultural industry mustovercome. 
 To lessen these dangers, early detection and prompt intervention arenecessary. 
 A cutting-edge crop disease prediction application for android to helpfarmers and agricultural stakeholders efficiently identify and manage crop diseases is developed.
